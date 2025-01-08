@@ -95,7 +95,7 @@ if (args.length === 1) {
   if (args[0] === "init") {
     const createdConfigFile = createDefaultConfigFile();
     console.log(
-      "Componentry initialized successfully \nConfiguration File : " +
+      "Component Genie initialized Successfully \nConfiguration File : " +
         createdConfigFile
     );
     process.exit(0);

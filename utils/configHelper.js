@@ -12,7 +12,7 @@ export const getConfiguration = () => {
     return JSON.parse(fs.readFileSync(configFilePath, "utf8"));
   } catch (error) {
     throw new Error(
-      'You must provide a configuration file named "componentry.config.json"'
+      'You must provide a configuration file named "rcg.config.json"'
     );
   }
 };

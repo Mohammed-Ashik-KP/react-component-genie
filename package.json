@@ -1,11 +1,11 @@
 {
-  "name": "react-componentry",
+  "name": "react-component-genie",
   "version": "1.0.0",
   "description": "CLI tool for generating themed React components with ease",
-  "main": "./srcipt/index.js",
+  "main": "./index.js",
   "author":"Mohammed Ashik KP",
   "bin": {
-    "componentry": "./index.js"
+    "rcg": "./index.js"
   },
   "type": "module",
   "dependencies": {

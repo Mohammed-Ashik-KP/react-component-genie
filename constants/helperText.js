@@ -1,14 +1,14 @@
 export const cliHelperText = `
   Usage:
-    componentry                Generate a new component
-    componentry init           Generate configuration file
-    componentry --help, -h     Show this help message
-    componentry --version, -v  Show version number
+    rcg                Generate a new component
+    rcg init           Generate configuration file
+    rcg --help, -h     Show this help message
+    rcg --version, -v  Show version number
    
   Commands:
       -t                       Template File Path (overwrite path mentioned in config file); 
-                               eg: componentry -t ./src/templates/index.js
+                               eg: rcg -t ./src/templates/index.js
 
       -o                       Output Directory Path (overwrite path mentioned in config file);
-                               eg: componentry -o ./src/components
+                               eg: rcg -o ./src/components
     `;
