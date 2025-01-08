@@ -1,0 +1,5 @@
+{
+    "templatePath" : "./templates",
+    "outputPath":"./output",
+    "includeTypeFile": true
+}
