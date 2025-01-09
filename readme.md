@@ -57,6 +57,10 @@ rcg -t <TEMPLATE_PATH>
 ## Overwrite the output folder path in rcg.config.json
 rcg -o <OUTPUT_PATH>
  
+## Overwrite the includeTypeFile property in rcg.config.json
+rcg -it
+rcg -it 0 # do not include type file
+ 
 ```
 
 ### Config File Options

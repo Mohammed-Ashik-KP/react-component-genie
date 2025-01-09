@@ -1,6 +1,6 @@
 {
   "name": "react-component-genie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool for generating themed React components with ease",
   "main": "./index.js",
   "author":"Mohammed Ashik KP",
@@ -8,6 +8,16 @@
     "rcg": "./index.js"
   },
   "type": "module",
+  "keywords": [
+    "react-component-genie",
+    "react-components",
+    "react-component-generator",
+    "component-generator",
+    "nextjs component-generator",
+    "reactjs component-generator",
+    "react boilerplate",
+    "rcg"
+  ],
   "dependencies": {
   }
 }

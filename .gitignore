@@ -1,1 +1,7 @@
 node_modules/
+
+templates/
+
+output/
+
+rcg.config.json
