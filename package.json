@@ -10,13 +10,16 @@
   "type": "module",
   "keywords": [
     "react-component-genie",
+    "react component genie",
     "react-components",
     "react-component-generator",
     "component-generator",
     "nextjs component-generator",
-    "reactjs component-generator",
-    "react boilerplate",
-    "rcg"
+    "react component-generator",
+    "react boilerplate repeater",
+    "rcg",
+    "react theme component",
+    "react generator"
   ],
   "dependencies": {
   }
