@@ -1,6 +1,6 @@
 {
   "name": "react-component-genie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool for generating themed React components with ease",
   "main": "./index.js",
   "author":"Mohammed Ashik KP",
